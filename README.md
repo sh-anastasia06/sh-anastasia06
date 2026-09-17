@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi 👋! My name is Anastasia Shkundich
 
-<!--
-**sh-anastasia06/sh-anastasia06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Automation Engineering student** 
+🛠️ Focused on Java Backend development, clean architecture, and networking fundamentals.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+- **Backend Development:** Java (Spring Boot, Spring Data JPA, Lombok, HikariCP)
+- **Databases & Tools:** PostgreSQL, Keycloak, Docker, Docker Compose, Postman
+- **Networking:** Cisco CCNA 1 Certified | Currently pursuing Cisco CCNA 2
+- **Frontend Basics:** HTML5 (Semantic HTML, BEM), CSS3 (Flexbox, Grid), JavaScript, TypeScript
+
+---
+
+### 🌐 Languages
+
+- Russian & Belarusian (Native)
+- English (B2)
+- German (A2 - Actively Learning)
+
+---
+### 📌 Featured Projects
+
+* **[Communication Channels](https://github.com/sh-anastasia06/communication-channels)**  
+  *A software module for data management of transmission system types*  
+  `Java` `Spring Boot` `PostgreSQL` `Docker` `Keycloak`
+
+*(Currently working on a second backend project — stay tuned!)*
+
+---
+
+### 📫 How to reach me
+
+- **E-mail:** [shkundich30@gmail.com](mailto:shkundich30@gmail.com)
