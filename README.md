@@ -24,11 +24,11 @@
 ### 📌 Featured Projects
 
 * **[Communication Channels](https://github.com/sh-anastasia06/communication-channels)**  
-  *A software module for data management of transmission system types*  
+  *A software module for data management of transmission system types*    
   `Java` `Spring Boot` `PostgreSQL` `Docker` `Keycloak`
 
-* **[Book_Catalog](https://github.com/sh-anastasia06/book-catalog)**
-  *REST API for data managment of books / publishers / authors / genres*
+* **[Book_Catalog](https://github.com/sh-anastasia06/book-catalog)**  
+  *REST API for data managment of books / publishers / authors / genres*  
   `Java` `Spring Boot` `PostgreSQL`
 
 ---
