@@ -7,7 +7,7 @@
 
 ### 🛠 Tech Stack
 
-- **Backend Development:** Java (Spring Boot, Spring Data JPA, Lombok, HikariCP)
+- **Backend Development:** Java, Spring Boot (Security, Web, Data JPA), Lombok, HikariCP
 - **Databases & Tools:** PostgreSQL, Keycloak, Docker, Docker Compose, Postman
 - **Networking:** Cisco CCNA 1 Certified | Currently pursuing Cisco CCNA 2
 - **Frontend Basics:** HTML5 (Semantic HTML, BEM), CSS3 (Flexbox, Grid), JavaScript, TypeScript
