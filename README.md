@@ -29,7 +29,7 @@
 
 * **[Book_Catalog](https://github.com/sh-anastasia06/book-catalog)**  
   *REST API for data managment of books / publishers / authors / genres*  
-  `Java` `Spring Boot` `PostgreSQL`
+  `Java` `Spring Boot` `PostgreSQL` `Docker`
 
 ---
 
